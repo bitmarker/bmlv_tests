@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="bmlv.lvlib" Type="Library" URL="../../bmlv/bmlv.lvlib"/>
 		<Item Name="bmlv_tests_dict.vi" Type="VI" URL="../bmlv_tests_dict.vi"/>
+		<Item Name="bmlv_tests_dict_in_loops.vi" Type="VI" URL="../bmlv_tests_dict_in_loops.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
